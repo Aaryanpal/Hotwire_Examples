@@ -1,0 +1,3 @@
+[submodule "Quotes_Editot"]
+	path = Quotes_Editot
+	url = git@github.com:Aaryanpal/Quotes_Editor.git
