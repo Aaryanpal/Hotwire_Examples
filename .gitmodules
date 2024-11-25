@@ -1,3 +1,6 @@
 [submodule "Quotes_Editot"]
 	path = Quotes_Editot
 	url = git@github.com:Aaryanpal/Quotes_Editor.git
+[submodule "Tailwind-Hotwire"]
+	path = Tailwind-Hotwire
+	url = git@github.com:Aaryanpal/Tailwind-Hotwire.git
